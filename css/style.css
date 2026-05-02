@@ -316,7 +316,7 @@ a:hover::after {
         display: flex;
         width: 48px;
         height: 48px;
-        background:url("../assents/menu.svg");
+        background:url("assents/menu.svg");
         position: absolute;
         top: 5px;
         right: 10px;
